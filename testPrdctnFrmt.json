@@ -1,0 +1,98 @@
+[
+    {
+        "id": "jp.smartcity-yaizu.DisasterMail.1",
+        "type": "DisasterMail",
+        "Identification": {
+            "type": "Text",
+            "value": "1",
+            "metadata": {}
+        },
+        "Main": {
+            "type": "Text",
+            "value": "テスト警戒レベル４　全員避難",
+            "metadata": {}
+        },
+        "SendDate": {
+            "type": "DateTime",
+            "value": "2023-02-01T01:23:45.123Z",
+            "metadata": {}
+        },
+        "Title": {
+            "type": "Text",
+            "value": "テスト避難指示No.1",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "jp.smartcity-yaizu.DisasterMail.2",
+        "type": "DisasterMail",
+        "Identification": {
+            "type": "Text",
+            "value": "2",
+            "metadata": {}
+        },
+        "Main": {
+            "type": "Text",
+            "value": "テスト警戒レベル４　全員避難",
+            "metadata": {}
+        },
+        "SendDate": {
+            "type": "DateTime",
+            "value": "2023-02-01T05:23:45.123Z",
+            "metadata": {}
+        },
+        "Title": {
+            "type": "Text",
+            "value": "テスト避難指示No.5",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "jp.smartcity-yaizu.DisasterMail.3",
+        "type": "DisasterMail",
+        "Identification": {
+            "type": "Text",
+            "value": "3",
+            "metadata": {}
+        },
+        "Main": {
+            "type": "Text",
+            "value": "テスト警戒レベル４　全員避難",
+            "metadata": {}
+        },
+        "SendDate": {
+            "type": "DateTime",
+            "value": "2023-02-01T06:23:45.123Z",
+            "metadata": {}
+        },
+        "Title": {
+            "type": "Text",
+            "value": "テスト避難指示No.6",
+            "metadata": {}
+        }
+    },
+    {
+        "id": "jp.smartcity-yaizu.DisasterMail.4",
+        "type": "DisasterMail",
+        "Identification": {
+            "type": "Text",
+            "value": "4",
+            "metadata": {}
+        },
+        "Main": {
+            "type": "Text",
+            "value": "テスト警戒レベル４　全員避難\\nこちらは、焼津市災害対策本部です。\\n発表内容：〇月〇日〇時〇分、以下の地域に「避難指示」発令\\n対象地域：〇〇、〇〇、〇〇〇、〇〇〇、〇〇〇、〇〇、〇〇、〇〇、〇〇、〇〇、〇〇、〇〇〇、〇〇〇、〇〇〇１～４丁目\\n理由：大雨による〇〇〇川氾濫のおそれ\\n行動要請：対象地域の方は速やかに避難してください\\n開設避難所：お近くの公民館、小学校、中学校に避難所を開設しています。",
+            "metadata": {}
+        },
+        "SendDate": {
+            "type": "DateTime",
+            "value": "2023-02-01T14:23:45.123Z",
+            "metadata": {}
+        },
+        "Title": {
+            "type": "Text",
+            "value": "テスト避難指示No.14",
+            "metadata": {}
+        }
+    }
+]
